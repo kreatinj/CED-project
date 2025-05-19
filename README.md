@@ -1,1 +1,17 @@
-# CED-project
+# 크기가 정해진 격자미로에서의  발전된 좌수법 알고리즘
+
+### 내용
+
+창의공학설계 강의의 미로탈출 팀프로젝트입니다. 제한된 조건에서 미로를 탈출하기 위한 발전된 알고리즘을 고안했습니다. 그 결과, 압도적으로 짧은 경로로 17초만에 탈출하였고 34초의 기록이 뒤를 이었습니다.
+개발 초기에 직진, 회전 등 작은 단위의 기능부터 테스트했고 각 모터별 출력 차이에 의해 자세가 흐트러지는 것을 보정했습니다. 기본기가 완성되고 주행 알고리즘을 작성했으며, 더 짧은 경로로 이동하기 위해 좌수법 알고리즘을 개선했습니다.
+
+### 소개
+
+![3](https://github.com/user-attachments/assets/70e30d54-2a48-4769-93ac-4b1c46a031e0)
+
+![4](https://github.com/user-attachments/assets/b615b520-6543-4b5b-9f77-5461cb71d87b)
+
+
+### 영상
+
+[창공설 플젝 영상.mp4](https://drive.google.com/file/d/1nk3glgjOXU2dVt4ftkxmhHsN5yMwX498/view?usp=drivesdk)
