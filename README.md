@@ -14,4 +14,4 @@
 
 ### 영상
 
-[창공설 플젝 영상.mp4](https://drive.google.com/file/d/1nk3glgjOXU2dVt4ftkxmhHsN5yMwX498/view?usp=drivesdk)
+https://github.com/user-attachments/assets/00cdf9e6-fd54-4910-89e1-acee5f0dc351
